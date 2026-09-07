@@ -5,6 +5,7 @@
 To identify user problems, formulate UX problem statements, select suitable UX research methods, and create user personas for two different UX project scenarios.
 
 ## ALGORITHM / PROCEDURE
+```
 Select two different UX project scenarios.
 Identify the target users and understand their needs.
 Identify major user pain points in each scenario.
@@ -15,7 +16,9 @@ Create user personas representing the target users.
 Include demographics, goals, behaviours, pain points, and motivations for each persona.
 Analyse the findings and identify important UX requirements.
 Document the problem statements, research methods, personas, and findings.
+```
 ## OUTPUT
+```
 1. IDENTIFYING AND WRITING PROBLEM STATEMENTS
 UX PROJECT SCENARIO 1 – CAMPUS LOST & FOUND APP
 A mobile Lost & Found application is designed to help college students report lost belongings, search for items that have been found, and contact the person who reported the item.
@@ -118,5 +121,6 @@ Clear date and time information
 Visible registration status
 Important event details in one place
 Reminder and saved-event features
+```
 ## RESULT
 Two different UX project scenarios were successfully analysed by identifying target users, user needs, and pain points. Clear UX problem statements were developed, appropriate research methods were selected and justified, and user personas were created based on demographics, goals, behaviours, pain points, and motivations. The identified UX requirements can be used as a foundation for designing user-centred applications.
