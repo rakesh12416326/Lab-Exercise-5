@@ -1,263 +1,122 @@
-# Lab-Exercise-5
-## Name : rakesh s
-## Reg No : 212225240114
-## Date : 02-09-2026
-## Aim:
-To analyze two different UX project scenarios, identify user pain points, formulate clear UX problem statements, select appropriate user research methods, and create user personas based on user goals, behaviors, pain points, and motivations.
+# LAB EXERCISE 5
+## NAME:RAKESH S
+## REF NO:212225240114
+## AIM
+To identify user problems, formulate UX problem statements, select suitable UX research methods, and create user personas for two different UX project scenarios.
 
-## Objectives:
-To understand the importance of UX research in product design.
-To identify user pain points in different application scenarios.
-To formulate clear and user-centered UX problem statements.
-To select suitable research methods for understanding user needs.
-To justify the selected research methods.
-To create user personas representing different types of users.
-To understand how user needs differ across different domains.
-To use research findings to support better UX design decisions.
-Tools/Software Required:
-Figma – For creating and presenting UX research artifacts and personas. Canva – For designing persona cards and presentation layouts. Web/mobile application references for studying existing user experiences.
-
-## Algorithm:
+## ALGORITHM / PROCEDURE
 Select two different UX project scenarios.
-Define the purpose and target users of each project.
-Identify the major problems and difficulties faced by users.
-List the user pain points for each project.
-Write one or two UX problem statements using the given template: [User] needs a way to [achieve goal] because [obstacle], which results in [impact].
-Select suitable UX research methods such as interviews, surveys, usability testing, and observation.
-Justify why the selected research methods are appropriate for each project.
-Identify different types of users for each application.
-Create at least two user personas for each project.
-Include the following information in each persona.
-Demographics Goals Behaviors Pain Points Motivation
-Compare the UX requirements of both projects.
-Organize all findings and persona designs in Figma/Canva.
-Review the findings and identify how the information can guide future UX design decisions.
-Projects:
-PROJECT 1 – SHOP EASE
- 
-E-Commerce Application
+Identify the target users and understand their needs.
+Identify major user pain points in each scenario.
+Formulate clear and user-focused UX problem statements.
+Select suitable UX research methods for each scenario.
+Justify the selected research methods according to the identified problems.
+Create user personas representing the target users.
+Include demographics, goals, behaviours, pain points, and motivations for each persona.
+Analyse the findings and identify important UX requirements.
+Document the problem statements, research methods, personas, and findings.
+## OUTPUT
+1. IDENTIFYING AND WRITING PROBLEM STATEMENTS
+UX PROJECT SCENARIO 1 – CAMPUS LOST & FOUND APP
+A mobile Lost & Found application is designed to help college students report lost belongings, search for items that have been found, and contact the person who reported the item.
 
-
-Project Description
-
-ShopEase is an online shopping application designed to help users discover products, compare 
-options, add products to their cart, and complete purchases conveniently. 
-Target Users 
-  1. College students 
-  2. Working professionals 
-  3. Regular online shoppers
-
-1. User Pain Points – ShopEase 
-    The following user pain points were identified: 
-        1. Users may find it difficult to locate specific products quickly. 
-        2. Too many products can make product selection difficult. 
-        3. Users may have difficulty comparing different products. 
-        4. Product information may not always be immediately visible. 
-        5. Complicated filters can make product discovery difficult. 
-        6. Users may face difficulties during checkout. 
-        7. Delivery information may not be clear enough. 
-        8. Users may hesitate when payment or order information is unclear. 
-2. Problem Statements – ShopEase
-
+User Pain Points
+Students may not know where to report a lost item.
+Searching through many reported items can be time-consuming.
+Users may not have enough information to identify their belongings.
+Students may be unsure whether an item has already been reported.
+Contacting the person who found an item may be difficult.
 Problem Statement 1
-
-Online shoppers need a way to quickly find suitable products because searching through many 
-products can be time-consuming, which results in frustration and abandoned purchases.
+"College students who lose personal belongings need an easy way to report and search for lost items because information about lost and found objects is often scattered across different channels, which makes recovery difficult."
 
 Problem Statement 2
+"Students need clear information about reported items because similar belongings can be difficult to distinguish, which may result in confusion and incorrect claims."
 
-Online shoppers need a way to easily understand and compare product information because 
-important details may be difficult to find, which results in uncertainty when making purchasing 
-decisions.
+UX PROJECT SCENARIO 2 – EVENT DISCOVERY APP
+An event discovery application is designed to help users find college events, workshops, competitions, seminars, and cultural activities based on their interests and availability.
 
-3. Research Methods – ShopEase
+User Pain Points
+Users may have difficulty discovering relevant events.
+Event dates and timings may not be clearly noticed.
+Users may not know whether registration is still available.
+Important event information may be spread across different sections.
+Users may forget about events they planned to attend.
+Problem Statement 1
+"College students need an easy way to discover events relevant to their interests because information about campus activities is often distributed across different sources, which causes students to miss events."
 
-Method 1: User Interviews 
-Users can be interviewed about their shopping experiences. 
-Questions can include: 
-   1. How often do you shop online? 
-   2. What makes it difficult to find products? 
-   3. What information do you check before purchasing? 
-   4. What makes you leave a shopping application without buying? 
-Why use interviews? 
-Interviews help designers understand the reasons behind user behavior, expectations, 
-frustrations, and preferences.
+Problem Statement 2
+"Students need clear information about event schedules and registration because important details may be difficult to find, which creates uncertainty when deciding whether to attend."
 
-Method 2: Usability Testing
+2. IDENTIFYING APPROPRIATE UX RESEARCH METHODS
+2.1 Research Methods for Campus Lost & Found App
+1. User Interviews
+Interviews can help understand how students currently report lost belongings, search for missing items, and communicate with people who find them.
 
-Users can be asked to complete tasks such as: 
-   1. Search for a dress. 
-   2. Apply a filter. 
-   3. Select a product. 
-   4. Add it to the cart. 
-   5. Proceed to checkout. 
-Why use usability testing?
- 
-It allows designers to directly observe where users struggle while interacting with the 
-application.
+2. Surveys
+Surveys can collect information from a larger number of students about commonly lost items, current reporting methods, and difficulties experienced while recovering belongings.
 
-4. Persona 1 – ShopEase: Ananya
+3. Usability Testing
+Usability testing can be used to observe students while they perform tasks such as reporting a lost item, searching for an item, viewing item details, and contacting another user.
 
-Age: 20
-Occupation: College Student 
-Demographics 
-  1. College student 
-  2. Regular smartphone user 
-  3. Shops online occasionally 
-Goals 
-  1. Find affordable products. 
-  2. Compare products quickly. 
-  3. Find discounts. 
-  4. Complete purchases easily. 
-Behaviors 
-  1. Uses mobile shopping applications. 
-  2. Compares prices before purchasing. 
-  3. Reads product reviews. 
-  4. Looks for discounts and offers. 
-Pain Points 
-  1. Too many product choices. 
-  2. Difficult filters. 
-  3. Unclear product information. 
-  4. Unexpected delivery charges. 
-Motivation 
-  Wants a simple, affordable, and quick shopping experience.
+Most Suitable Methods
+User interviews and usability testing are the most suitable methods.
 
-5. Persona 2 – ShopEase: Priya 
-Age: 28 
-Occupation: Software Professional 
-Demographics 
-  1. Working professional 
-  2. Regular online shopper 
-  3. Uses digital payment methods 
-Goals 
-  1. Find products quickly. 
-  2. Purchase quality products. 
-  3. Save time. 
-  4. Receive products on time. 
-Behaviors 
-  1. Shops mostly using a mobile phone. 
-  2. Reads reviews before purchasing. 
-  3. Compares products. 
-  4. Uses digital payments. 
-Pain Points 
-  1. Long checkout process. 
-  2. Difficulty finding specific products. 
-  3. Too many promotional messages. 
-  4. Unclear delivery information. 
-Motivation 
-  Wants a fast, convenient, and trustworthy shopping experience.
+Interviews help understand students' actual experiences and problems.
+Usability testing helps identify difficulties while performing important tasks in the application.
+2.2 Research Methods for Event Discovery App
+1. User Interviews
+Interviews can help understand how students currently discover college events and what information they consider important before attending.
 
-PROJECT 2 – MEDICARE
+2. Surveys
+Surveys can collect information from many students about their event preferences, common discovery methods, and reasons for missing events.
 
-Healthcare Appointment Application
+3. Usability Testing
+Usability testing can help identify problems when users search for events, filter events, view event information, and register for an event.
 
-Project Description 
-MediCare is a healthcare application designed to help users find doctors, view available 
-appointments, and book consultations conveniently. 
-Target Users 
-  1. Patients 
-  2. Working professionals 
-  3. Parents managing family appointments 
-6. User Pain Points – MediCare 
-The following pain points were identified: 
-  1. Users may find it difficult to find the right doctor. 
-  2. Users may be confused by many doctor options. 
-  3. Doctor specialization may not always be immediately clear. 
-  4. Appointment availability may be difficult to understand. 
-  5. Booking an appointment may take too many steps. 
-  6. Users may have difficulty rescheduling appointments. 
-  7. Consultation fees may not be clearly displayed. 
-  8. Users may forget appointments without reminders.
+Most Suitable Methods
+Surveys and usability testing are the most suitable methods.
 
-7. Problem Statements – MediCare
-
-Problem Statement 1 
-Patients need a way to quickly find the right doctor because searching through multiple doctors 
-and specializations can be confusing, which results in delayed appointments and frustration. 
-Problem Statement 2 
-Patients need a way to easily view and select available appointment slots because appointment 
-information can be unclear, which results in booking errors and inconvenience.
-
-8. Research Methods – MediCare 
-Method 1: User Interviews 
-Interview patients about their experience with booking medical appointments. 
-Questions can include: 
-  1. How do you normally book a doctor appointment? 
-  2. What information do you look for before selecting a doctor? 
-  3. What problems do you face while booking? 
-  4. Do you prefer online or offline appointment booking?
-
-Why use interviews? 
-Interviews help understand users' expectations, concerns, frustrations, and requirements when 
-booking healthcare appointments. 
-Method 2: Usability Testing 
-Users can be asked to perform tasks such as: 
-  1. Search for a doctor. 
-  2. Select a specialization. 
-  3. View doctor details. 
-  4. Select an available time. 
-  5. Book an appointment. 
-Why use usability testing? 
-It helps identify navigation problems, confusing information, unnecessary steps, and interaction 
-difficulties.
-
-9. Persona 1 – MediCare: Ravi
-
-Age: 32 
-Occupation: IT Professional 
-Demographics 
-  1. Working professional 
-  2. Regular smartphone user 
-  3. Uses online services frequently
-
-Goals 
-  1. Find a doctor quickly. 
-  2. Book appointments online. 
-  3. Select a convenient time. 
-  4. Receive appointment reminders.
-
-Behaviors 
-  1. Uses mobile applications. 
-  2. Books appointments after work. 
-  3. Searches doctors online. 
-  4. Checks doctor ratings and reviews.
-
-Pain Points 
-  1. Limited appointment availability. 
-  2. Long booking processes. 
-  3. Difficult navigation. 
-  4. Unclear appointment information.
-
-Motivation 
-  Wants to book a doctor quickly without waiting on phone calls.
-
-
-10. Persona 2 – MediCare: Meena 
-Age: 40 
-Occupation: Homemaker / Parent
-
-Demographics 
-  1. Parent 
-  2. Manages healthcare appointments for family members 
-  3. Uses smartphone for daily activities
-
-Goals 
-  1. Find suitable doctors. 
-  2. Understand doctor specialization. 
-  3. Book convenient appointments. 
-  4. Receive appointment reminders.
-
-Behaviors 
-  1. Searches doctors based on specialization. 
-  2. Checks doctor ratings. 
-  3. Prefers simple interfaces. 
-  4. Needs clear appointment information.
-
-Pain Points 
-  1. Complicated medical terminology. 
-  2. Difficult navigation. 
-  3. Unclear appointment slots. 
-  4. Too many options.
-
-Motivation 
-  Wants a simple and reliable way to manage healthcare appointments for her family.
+Surveys help identify common event-discovery habits and preferences.
+Usability testing helps identify navigation and information-display problems.
+3. CREATING USER PERSONAS
+3.1 PERSONA 1 – CAMPUS LOST & FOUND APP USER
+Category	Details
+Name	Rahul Menon
+Age	19 years
+Occupation	College Student
+Location	Chennai, Tamil Nadu
+Goals	Report lost belongings quickly, search for missing items, identify found belongings, and contact the finder
+Behaviours	Uses smartphone regularly, communicates through messaging applications, checks college groups for information, prefers quick searches
+Pain Points	Does not know where to report lost items, difficulty searching through messages, unclear item information
+Motivation	Wants to recover lost belongings quickly without contacting multiple people
+3.2 PERSONA 2 – EVENT DISCOVERY APP USER
+Category	Details
+Name	Ananya Iyer
+Age	21 years
+Occupation	College Student
+Location	Chennai, Tamil Nadu
+Goals	Discover interesting events, check event schedules, register easily, and remember upcoming events
+Behaviours	Frequently participates in college activities, follows student groups online, searches for workshops and competitions
+Pain Points	Misses events because of late information, difficult-to-find event details, unclear registration deadlines
+Motivation	Wants to participate in useful and interesting college activities while managing her academic schedule
+4. PERSONA SUMMARY
+Persona	Application	Main Goal	Major Pain Point
+Rahul Menon	Campus Lost & Found App	Recover lost belongings quickly	Scattered information and difficult item searching
+Ananya Iyer	Event Discovery App	Discover and register for relevant events	Missing events and unclear event information
+5. KEY UX REQUIREMENTS
+Campus Lost & Found App
+Simple lost-item reporting
+Easy item search
+Category and location-based filtering
+Clear item descriptions and images
+Easy communication between users
+Clear status for lost and found items
+Event Discovery App
+Simple event discovery
+Category-based filtering
+Clear date and time information
+Visible registration status
+Important event details in one place
+Reminder and saved-event features
+## RESULT
+Two different UX project scenarios were successfully analysed by identifying target users, user needs, and pain points. Clear UX problem statements were developed, appropriate research methods were selected and justified, and user personas were created based on demographics, goals, behaviours, pain points, and motivations. The identified UX requirements can be used as a foundation for designing user-centred applications.
